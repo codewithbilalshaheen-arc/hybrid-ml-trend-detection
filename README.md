@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Hybrid ML System for Detecting Emerging Digital Trends
 
 ## Project Description
@@ -72,7 +70,7 @@ hybrid-ml-trend-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-team>/hybrid-ml-trend-detection.git
+git clone https://github.com/codewithbilalshaheen-arc/hybrid-ml-trend-detection.git
 cd hybrid-ml-trend-detection
 ```
 
@@ -194,4 +192,3 @@ Raw Reddit Data
 ## License
 
 This project was developed as part of an academic course assignment. All data used is publicly available via Kaggle.
->>>>>>> d946a920623ecd8dfef024183f4ec0d51e8e658d
