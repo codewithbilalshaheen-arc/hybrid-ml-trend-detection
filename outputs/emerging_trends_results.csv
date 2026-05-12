@@ -1,0 +1,11 @@
+Topic_ID,Label,Change_Date,Growth_Rate,Mean_Before,Mean_After,Status,Change_Points
+topic_0,Military & Defense,N/A,1.0,0.0,0.0,Stable,0
+topic_1,Politics & Government,2025-05-19,0.55,280.8,154.2,Declining,2
+topic_2,International Affairs,2026-01-19,0.66,308.8,202.3,Declining,3
+topic_3,Economics & Finance,2025-12-15,0.95,134.8,127.5,Stable,4
+topic_4,Tech & Innovation,2025-05-19,0.75,111.2,83.8,Stable,1
+topic_5,Global Issues,2025-10-06,0.66,146.7,96.1,Declining,1
+topic_6,Regional Conflicts,2025-12-15,1.09,146.6,159.9,Stable,4
+topic_7,Trade & Commerce,2025-06-23,0.8,141.2,112.8,Stable,1
+topic_8,Europe & NATO,2025-04-14,0.69,163.5,113.0,Declining,1
+topic_9,Diplomacy & Relations,2025-06-23,0.7,223.5,156.5,Stable,3
