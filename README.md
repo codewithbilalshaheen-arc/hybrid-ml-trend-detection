@@ -191,4 +191,4 @@ Raw Reddit Data
 
 ## License
 
-This project was developed as part of an academic course assignment. All data used is publicly available via Kaggle.
+This project was developed as part of an academic course assignment.
